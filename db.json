@@ -3,6 +3,7 @@
     { "id": 1, "title": "blog", "author": "me" },
     { "id": 2, "title": "blog_page", "author": "mou" }
 
-  ]
+  ],
+  "cart":[]
   
 }
